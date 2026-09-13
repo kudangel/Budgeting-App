@@ -1,0 +1,6 @@
+{
+  "name": "Expense & Budget Tracker",
+  "description": "Mobile-first, simplified budgeting web app with tap-and-go auto-deductions in Philippine Peso (₱) synced to Google Sheets with a Budget Weeks structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
